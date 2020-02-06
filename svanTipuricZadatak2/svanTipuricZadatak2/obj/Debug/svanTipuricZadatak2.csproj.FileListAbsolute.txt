@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\svanTipuricZadatak2\svanTipuricZadatak2\bin\Debug\svanTipuricZadatak2.exe.config
+C:\Users\3.D\source\repos\svanTipuricZadatak2\svanTipuricZadatak2\bin\Debug\svanTipuricZadatak2.exe
+C:\Users\3.D\source\repos\svanTipuricZadatak2\svanTipuricZadatak2\bin\Debug\svanTipuricZadatak2.pdb
+C:\Users\3.D\source\repos\svanTipuricZadatak2\svanTipuricZadatak2\obj\Debug\svanTipuricZadatak2.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\svanTipuricZadatak2\svanTipuricZadatak2\obj\Debug\svanTipuricZadatak2.Form1.resources
+C:\Users\3.D\source\repos\svanTipuricZadatak2\svanTipuricZadatak2\obj\Debug\svanTipuricZadatak2.Properties.Resources.resources
+C:\Users\3.D\source\repos\svanTipuricZadatak2\svanTipuricZadatak2\obj\Debug\svanTipuricZadatak2.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\svanTipuricZadatak2\svanTipuricZadatak2\obj\Debug\svanTipuricZadatak2.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\svanTipuricZadatak2\svanTipuricZadatak2\obj\Debug\svanTipuricZadatak2.exe
+C:\Users\3.D\source\repos\svanTipuricZadatak2\svanTipuricZadatak2\obj\Debug\svanTipuricZadatak2.pdb
