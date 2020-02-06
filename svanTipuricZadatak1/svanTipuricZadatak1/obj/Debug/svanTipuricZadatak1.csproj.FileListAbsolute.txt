@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\svanTipuricZadatak1\svanTipuricZadatak1\bin\Debug\svanTipuricZadatak1.exe.config
+C:\Users\3.D\source\repos\svanTipuricZadatak1\svanTipuricZadatak1\bin\Debug\svanTipuricZadatak1.exe
+C:\Users\3.D\source\repos\svanTipuricZadatak1\svanTipuricZadatak1\bin\Debug\svanTipuricZadatak1.pdb
+C:\Users\3.D\source\repos\svanTipuricZadatak1\svanTipuricZadatak1\obj\Debug\svanTipuricZadatak1.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\svanTipuricZadatak1\svanTipuricZadatak1\obj\Debug\svanTipuricZadatak1.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\svanTipuricZadatak1\svanTipuricZadatak1\obj\Debug\svanTipuricZadatak1.exe
+C:\Users\3.D\source\repos\svanTipuricZadatak1\svanTipuricZadatak1\obj\Debug\svanTipuricZadatak1.pdb
